@@ -33,16 +33,12 @@
     , "url": "https://9gag.com/v1/group-posts/group/gaming/type/trending"
     }
   ,{
-      "name": "Girl"
-    , "url": "https://9gag.com/v1/group-posts/group/girl/type/trending"
-    }
-  ,{
       "name": "Meme"
     , "url": "https://9gag.com/v1/group-posts/group/meme/type/trending"
     }
   ,{
       "name": "Savage"
-    , "url": "https://9gag.com/v1/group-posts/group/savege/type/trending"
+    , "url": "https://9gag.com/v1/group-posts/group/savage/type/trending"
     }
   ,{
       "name": "Video"

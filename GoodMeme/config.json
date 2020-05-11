@@ -1,0 +1,56 @@
+{
+  "CATEGORIES" : [
+    {
+      "name": "Trendings"
+    , "url": "https://9gag.com/v1/group-posts/group/default/type/trending"
+    }
+  ,{
+      "name": "Animals"
+    , "url": "https://9gag.com/v1/group-posts/group/animals/type/trending"
+    }
+  ,{
+      "name": "Anime & Manga"
+    , "url": "https://9gag.com/v1/group-posts/group/anime-manga/type/trending"
+    }
+  ,{
+      "name": "Anime Waifu"
+    , "url": "https://9gag.com/v1/group-posts/group/animewaifu/type/trending"
+    }
+  ,{
+      "name": "Awesome"
+    , "url": "https://9gag.com/v1/group-posts/group/awesome/type/trending"
+    }
+  ,{
+      "name": "Car"
+    , "url": "https://9gag.com/v1/group-posts/group/car/type/trending"
+    }
+  ,{
+      "name": "Funny"
+    , "url": "https://9gag.com/v1/group-posts/group/funny/type/trending"
+    }
+  ,{
+      "name": "Gaming"
+    , "url": "https://9gag.com/v1/group-posts/group/gaming/type/trending"
+    }
+  ,{
+      "name": "Girl"
+    , "url": "https://9gag.com/v1/group-posts/group/girl/type/trending"
+    }
+  ,{
+      "name": "Meme"
+    , "url": "https://9gag.com/v1/group-posts/group/meme/type/trending"
+    }
+  ,{
+      "name": "Savage"
+    , "url": "https://9gag.com/v1/group-posts/group/savege/type/trending"
+    }
+  ,{
+      "name": "Video"
+    , "url": "https://9gag.com/v1/group-posts/group/video/type/trending"
+    }
+  ,{
+      "name": "WTF"
+    , "url": "https://9gag.com/v1/group-posts/group/wtf/type/trending"
+    }
+  ]
+}

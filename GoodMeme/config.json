@@ -1,7 +1,7 @@
 {
   "CATEGORIES" : [
     {
-      "name": "Trendings"
+      "name": "Trending"
     , "url": "https://9gag.com/v1/group-posts/group/default/type/trending"
     }
   ,{
@@ -33,16 +33,12 @@
     , "url": "https://9gag.com/v1/group-posts/group/gaming/type/trending"
     }
   ,{
-      "name": "Girl"
-    , "url": "https://9gag.com/v1/group-posts/group/girl/type/trending"
-    }
-  ,{
       "name": "Meme"
     , "url": "https://9gag.com/v1/group-posts/group/meme/type/trending"
     }
   ,{
       "name": "Savage"
-    , "url": "https://9gag.com/v1/group-posts/group/savege/type/trending"
+    , "url": "https://9gag.com/v1/group-posts/group/savage/type/trending"
     }
   ,{
       "name": "Video"
@@ -53,4 +49,7 @@
     , "url": "https://9gag.com/v1/group-posts/group/wtf/type/trending"
     }
   ]
+  , "eula" : "DISCLAIMER: All content and copyright protected to the respective owners. We do not accept responsibility for content hosted on third party and does not have any involvement. We just post links available in The Internet, If you think any of the contents infringes any intellectual property law and you hold the copyright of that content please report it to dinimelina19@gmail.com and the content will be immediately removed."
+  , "showAdsBanner" : false
+  , "showAdsIntStep" : 99999
 }

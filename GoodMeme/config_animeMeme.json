@@ -1,0 +1,48 @@
+{
+  "CATEGORIES" : [
+   {
+      "name": "Anime Meme Best"
+    , "url": "https://9gag.com/v1/group-posts/group/anime-manga/type/trending"
+    }
+  ,{
+      "name": "Anime Meme Latest"
+    , "url": "https://9gag.com/v1/group-posts/group/anime-manga/type/hot"
+    }
+  ,{
+      "name": "Anime Waifu Best"
+    , "url": "https://9gag.com/v1/group-posts/group/animewaifu/type/trending"
+    }
+  ,{
+      "name": "Anime Waifu Latest"
+    , "url": "https://9gag.com/v1/group-posts/group/animewaifu/type/hot"
+    }
+  ,{
+      "name": "Anime Wallpaper Best"
+    , "url": "https://9gag.com/v1/group-posts/group/animewallpaper/type/trending"
+    }
+  ,{
+      "name": "Anime Wallpaper Latest"
+    , "url": "https://9gag.com/v1/group-posts/group/animewallpaper/type/hot"
+    }
+   ,{
+      "name": "Comic & Webtoon Best"
+    , "url": "https://9gag.com/v1/group-posts/group/comic-webtoon/type/trending"
+    }
+  ,{
+      "name": "Comic & Webtoon Latest"
+    , "url": "https://9gag.com/v1/group-posts/group/comic-webtoon/type/hot"
+    }
+  ]
+  , "eula" : "<b>DISCLAIMER:</b> All content and copyright protected to the respective owners. We do not accept responsibility for content hosted on third party and does not have any involvement. We just post links available in The Internet, If you think any of the contents infringes any intellectual property law and you hold the copyright of that content please report it to dinimelina19@gmail.com and the content will be immediately removed."
+  , "showAdsBanner" : true
+  , "showAdsIntStep" : 2
+  , "showAdsIntInitialStep" : 2
+  , "blockeds" :[
+      {
+        "id" : "arVeVrK"
+      }
+      , {
+        "id" : "avzZ5pX"
+      }
+    ]
+}

@@ -1,12 +1,8 @@
 {
   "CATEGORIES" : [
    {
-      "name": "Best"
+      "name": "Anime Meme"
     , "url": "https://9gag.com/v1/group-posts/group/anime-manga/type/trending"
-    }
-  ,{
-      "name": "Anime Meme Latest"
-    , "url": "https://9gag.com/v1/group-posts/group/anime-manga/type/hot"
     }
   ,{
       "name": "Anime Waifu"

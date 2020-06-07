@@ -1,5 +1,5 @@
 {
-  "SHOW_ADS_BANNER":false
+  "SHOW_ADS_BANNER":true
   , "INT_AD_SHOW_RATE":1.0
   , "MAX_RESI_HISTORY":12
   , "MAX_RESI_WATCH":3

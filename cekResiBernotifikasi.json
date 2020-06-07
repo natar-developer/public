@@ -1,4 +1,6 @@
 {
-  "banner_ads":false
-  , "int_ads_rate":1.0
+  "SHOW_ADS_BANNER":false
+  , "INT_AD_SHOW_RATE":1.0
+  , "MAX_RESI_HISTORY":12
+  , "MAX_RESI_WATCH":3
 }

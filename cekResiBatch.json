@@ -1,0 +1,7 @@
+{
+  "SHOW_ADS_BANNER":true
+  , "INT_AD_SHOW_RATE":0.0
+  , "MAX_RESI_HISTORY":16
+  , "MAX_RESI_WATCH":5
+  , "MINIMAL_VERSION":"1.0"
+}

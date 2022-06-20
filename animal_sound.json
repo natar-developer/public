@@ -1,5 +1,5 @@
 {
   "SHOW_ADS_BANNER":true
-  , "INT_AD_SHOW_RATE":0.2
+  , "INT_AD_SHOW_RATE":1.0
   , "MINIMAL_VERSION":"1.2"
 }
